@@ -1,0 +1,13 @@
+datasets
+evaluate
+numpy
+pandas
+pydantic
+transformers
+accelerate
+seqeval
+peft
+torch
+tqdm
+huggingface_hub
+scikit-learn 
